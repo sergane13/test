@@ -8,3 +8,4 @@ no random
 5
 6
 toto
+avioane de hartie
